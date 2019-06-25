@@ -1,0 +1,39 @@
+@font-face {
+  font-family: "Haben";
+
+  src: url("../fonts/Haben/Haben-Mdslktrweb.ttf") format("ttf");
+  src: url("../fonts/Haben/Haben-Mdslktrweb.woff") format("woff");
+  src: url("../fonts/Haben/Haben-Mdslktrweb.otf") format("otf");
+}
+
+@font-face {
+  font-family: "GT-America-bold";
+
+  src: url("../fonts/GT-America/bold/GTEestiProDispTrialBold.ttf") format("ttf");
+  src: url("../fonts/GT-America/bold/GTEestiProDispTrialBold.woff") format("woff");
+  src: url("../fonts/GT-America/bold/GT-Eesti-Pro-Display-Trial-Bold.otf") format("otf");
+}
+
+@font-face {
+  font-family: "GT-America-medium";
+
+  src: url("../fonts/GT-America/medium/GTEestiProDispTrialMedium.ttf") format("ttf");
+  src: url("../fonts/GT-America/medium/GTEestiProDispTrialBold.woff") format("woff");
+  src: url("../fonts/GT-America/medium/GT-Eesti-Pro-Display-Trial-Medium.otf") format("otf");
+}
+
+@font-face {
+  font-family: "GT-America-regular";
+
+  src: url("../fonts/GT-America/regular/GTEestiProDispTrialRegular.ttf") format("ttf");
+  src: url("../fonts/GT-America/regular/GTEestiProDispTrialBold.woff") format("woff");
+  src: url("../fonts/GT-America/regular/GT-Eesti-Pro-Display-Trial-Regular.otf") format("otf");
+}
+
+@font-face {
+  font-family: "GT-America-thin";
+
+  src: url("../fonts/GT-America/thin/GTEestiProDispTrialThin.ttf") format("ttf");
+  src: url("../fonts/GT-America/thin/GTEestiProDispTrialThin.woff") format("woff");
+  src: url("../fonts/GT-America/thin/GT-Eesti-Pro-Display-Trial-Thin.otf") format("otf");
+}
